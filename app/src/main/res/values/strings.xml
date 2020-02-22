@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeemFlashCardApp</string>
+    <string name="question_one">How old is Heem?</string>
+    <string name="answer_one">He is 18 Years old</string>
+</resources>
