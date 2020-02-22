@@ -1,9 +1,9 @@
 ## HeemFlashCardApp
 
-## Lab 1
+## Lab 1 Week2
 
 ### App Description
-Flashcard app that flips has a question and an answer and flips back and forth between them when clicked
+Flashcard app that flips has a question and an answer and flips back and forth between them when clicked. has different drawables built for the question and the answer, the question drawable is a lime green rectangle with rounded corners and a gradient design between 2 shades of teal i choose, after cliking it the answer card appears. its drawable is a green rectangle with more rounded corners and a teal padding.
 
 ### App Walk-though
 
