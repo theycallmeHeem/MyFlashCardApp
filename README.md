@@ -26,13 +26,11 @@ Flashcard app that flips has a question and an answer and flips back and forth b
 
 ## Lab 2
 
-### App Description
-`TODO://` Add app description
 
 ### App Walk-though
 takes user input for questiona and answer oon the second activity then adds inputs to the first activity
 
-<img src="https://i.imgur.com/96tf37D.gifv" width=200><br>
+<img src="https://i.imgur.com/96tf37D.gif" width=200><br>
 
 
 
