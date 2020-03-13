@@ -51,3 +51,6 @@ takes user input for questiona and answer oon the second activity then adds inpu
 
 
 https://imgur.com/PHIHRyG.gif 
+
+
+<img src="https://imgur.com/PHIHRyG.gif" width=200><br>
